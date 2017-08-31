@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">EmpresaXYZ</string>
+    <string name="title">COTIZACIÓN DE MANILLAS</string>
+    <string name="quantity">Cantidad</string>
+    <string name="materialType">Tipo de Material</string>
+    <string name="pendantType">Tipo de Dije</string>
+    <string name="pendantMaterial">Material del Dije</string>
+    <string name="currencyType">Tipo de Moneda</string>
+    <string name="dollar">Dólares</string>
+    <string name="peso">Pesos</string>
+    <string name="quotedValue">Valor Cotizado</string>
+    <string name="quote">Cotizar</string>
+    <string name="clear">Limpiar</string>
+    <string name="leather">Cuero</string>
+    <string name="rope">Cuerda</string>
+    <string-array name="material">
+        <item>@string/leather</item>
+        <item>@string/rope</item>
+    </string-array>
+    <string name="hammer">Martillo</string>
+    <string name="anchor">Ancla</string>
+    <string-array name="pendant">
+        <item>@string/hammer</item>
+        <item>@string/anchor</item>
+    </string-array>
+    <string name="gold">Oro, Oro Rosado</string>
+    <string name="silver">Plata</string>
+    <string name="nickel">Niquel</string>
+    <string-array name="pendantMaterial">
+        <item>@string/gold</item>
+        <item>@string/silver</item>
+        <item>@string/nickel</item>
+    </string-array>
+    <string name="message_error_quantity">Digite la cantidad que desea cotizar</string>
+    <string name="message_error_checkbox">Debe seleccionar con que tipo de moneda cotizara</string>
+    <string name="message_error_not0">La cantidad no puede ser 0</string>
+</resources>

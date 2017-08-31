@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BusinessXYZ</string>
+    <string name="title">HANDLING QUOTE</string>
+    <string name="quantity">Quantity</string>
+    <string name="materialType">Type of Material</string>
+    <string name="pendantType">Type of Pendant</string>
+    <string name="pendantMaterial">Material of Pendant</string>
+    <string name="currencyType">Type of Currency</string>
+    <string name="dollar">Dollars</string>
+    <string name="peso">Pesos</string>
+    <string name="clear">Clear</string>
+    <string name="quote">Quote</string>
+    <string name="quotedValue">Value Quoted</string>
+    <string name="anchor">Anchor</string>
+    <string name="gold">Gold, Rose Gold</string>
+    <string name="hammer">Hammer</string>
+    <string name="leather">Leather</string>
+    <string name="message_error_checkbox">You must select with the currency type quoted</string>
+    <string name="message_error_not0">The amount can not be 0</string>
+    <string name="message_error_quantity">Enter the amount you want to quote</string>
+    <string name="nickel">Nickel</string>
+    <string name="rope">Rope</string>
+</resources>
